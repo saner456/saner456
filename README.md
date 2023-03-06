@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @saner456
-- 👀 I’m interested in NLP, Machine Learning, Linguistics and Python
-- 🌱 I’m currently learning Linguistics and Python
+Hi, this is Saner here. You'll find my journey of becoming a front-end dev in this profile.
